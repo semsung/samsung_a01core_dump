@@ -1,0 +1,14 @@
+# a01coredd-user 10 QP1A.190711.020 M013FDDU4AUF2 release-keys
+- manufacturer: 
+- platform: mt6739
+- codename: a01core
+- flavor: a01coredd-user
+- release: 10
+- id: QP1A.190711.020
+- incremental: M013FDDU4AUF2
+- tags: release-keys
+- fingerprint: samsung/a01coredd/a01core:10/QP1A.190711.020/M013FDDU4AUF2:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a01coredd-user-10-QP1A.190711.020-M013FDDU4AUF2-release-keys
+- repo: samsung_a01core_dump
